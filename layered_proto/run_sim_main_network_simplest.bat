@@ -1,0 +1,2 @@
+sim_main_network_simplest.exe difficulty=19 max_req=1000 block_size=20000 minimum_ack=0 prob_error_req=0 is_mining_for_real=0 rho=0.5 num_service_channels=3 lambda_c=1 block_time=2 confirmation=2
+pause
